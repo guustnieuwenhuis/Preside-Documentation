@@ -112,8 +112,8 @@ For permissions, add your keys to the `/i18n/permissions.properties` file, e.g.
 eventmanagement.events.navigate.title=Events management navigation
 eventmanagement.events.navigate.description=View events management navigation links
 
-eventmanagement.events.view=title=View events
-eventmanagement.events.view=description=View details of events that have been entered into the system
+eventmanagement.events.view.title=View events
+eventmanagement.events.view.description=View details of events that have been entered into the system
 ```
 
 >>> For permissions, you may only want to create resource bundle entries when the permissions will be used in contextual permission GUIs. Otherwise, the translations will never be used.
